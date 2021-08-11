@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    color: black;
+    font-family: sans-serif;
+   }
+/*
+.canvas {
+    background-color: #05000d;
+    background-image: url("https://www.transparenttextures.com/patterns/asfalt-light.png");
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100vw;
+}*/
+
+.highlight {
+    color: #e31b6d;
+}
+
